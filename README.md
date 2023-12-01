@@ -3,5 +3,5 @@ Tokyo night color palette for Ultrakill
 # Usage
 place tokyo_night.png file in palettes folder
 
-![Screenshot (44)](https://github.com/1MMM10/UltraKill-Tokyo-night/assets/145606624/be0d7902-9aa8-4275-a258-40fec99254a2)
+![Screenshot (44)](https://github.com/1MMM10/tokyo-night-Ultrakill/assets/145606624/1c11a221-385a-484e-a652-51249387a6c8)
 
